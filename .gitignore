@@ -1,0 +1,59 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+*/build/
+
+# Gradle files
+.gradle/
+buildOutputCleanup/
+
+# Local configuration file (SDK location, etc) - SANGAT PENTING: biarkan generate lokal
+local.properties
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Kotlin cache
+.kotlin/
+
+# NDK / C++
+.externalNativeBuild/
+.cxx/
+
+# Log files
+*.log
+
+# Android Studio captures & profiler
+captures/
+profiler/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Keystore & Signing files (keamanan)
+*.jks
+*.keystore
+release.properties
